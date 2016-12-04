@@ -1,5 +1,5 @@
 # project_euler-py
-Solutions to Project Euler problems, done in Python (version 2.7.12). This repository contains the following:
+This is a repository for solutions to Project Euler problems, as implemented in Python 2.7.12. This repository contains the following files:
 ## Shukla - Project Euler 01
 Problem 1 in Project Euler, asking to find the sum of all the multiples of 3 or 5 below 1000.
 ## Shukla - Project Euler 02
